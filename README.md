@@ -21,10 +21,7 @@ Opinion_pie.png`: A pie chart of the opinion breakdown.
 4. Check `climate_map.html` after—it’s interactive!
 
 ## What I Got
-- Scraped ~200 tweets (could do more with time).
-- BERT split them: ~60% believers, 25% skeptics, 15% neutral.
-- Map showed skeptics clustering in some spots (like parts of the US)—super interesting!
-- Pie chart’s in the notebook and saved as `opinion_pie.png`.
+
 
 ## Why It Matters
 This is all about how AI can dig into what people think and maybe help shape climate policies. Totally fits the PSL Master’s focus on tech and society—I’m hooked now!
